@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Susurro de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-pasion/) |
+| **Get License** | [License this song: Susurro de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Acércate un poquito, que la noche ya llama
+> El humo en la sala y el calor que nos quema
+> Un susurro de pasión es lo que mi alma reclama
+> Tú tienes la llave que rompe mi sistema
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
