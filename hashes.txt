@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurro de pasión
+
+This log tracks the cryptographic history and versioning for the song **Susurro de pasión** (susurro-de-pasion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T12:55:05.910761 | `v1` | `ec26b045a1e22a1afa01f632ac78a2da667932d69b3e8af9783e34c030307a8d` | `1d0e83b0cead98802f41eab0f79d553d8f3f33d74728a299e520ab26b61843aa` | `2026-06-23_susurro-de-pasion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
