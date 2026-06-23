@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/susurro-de-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Susurro de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-pasion/) |
+| **Get License** | [Music Rights & Licensing for Susurro de pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/susurro-de-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4161)
 
 ---
 
